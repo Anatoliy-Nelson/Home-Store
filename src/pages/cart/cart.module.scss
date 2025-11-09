@@ -1,0 +1,22 @@
+.title {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+
+  .wrapperProducts {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 80%;
+  }
+
+  .wrapperTotal {
+    display: flex;
+    justify-content: space-between;
+  }
+}

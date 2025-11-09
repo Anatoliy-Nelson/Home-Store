@@ -1,0 +1,14 @@
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+
+  .labelButton {
+    font-weight: bold;
+  }
+
+  .wrapper {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+}

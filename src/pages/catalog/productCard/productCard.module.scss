@@ -1,0 +1,37 @@
+.card {
+  display: flex;
+  width: 330px;
+  padding: 10px;
+
+  &:hover {
+    box-shadow: 0 0 5px #442c2e;
+  }
+
+  .cardInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+
+    .description,
+    .img,
+    .name {
+      margin-bottom: 10px;
+    }
+
+    .price{
+      margin-bottom: 20px;
+    }
+
+    .img {
+      height: 200px;
+    }
+
+    .name {
+      color: #442c2e;
+    }
+    .button {
+      height: 40px;
+    }
+  }
+}
