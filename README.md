@@ -26,7 +26,7 @@ This project is hosted on the Vercel platform and is available at https://home-s
 
 To get started with homeStore, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/oksivasilinka/homeStore.git`
+1. Clone the repository: `git clone https://github.com/Anatoliy-Nelson/Home-Store`
 2. Install project dependencies: `pnpm install`
 3. Start the development server: `pnpm dev`
 4. Open a browser and access homeStore at `http://localhost:5173`.
